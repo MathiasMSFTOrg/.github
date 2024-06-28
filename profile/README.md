@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Welcome to my organization 😊
+# 🙋‍♀️ Introduction 
+# 🌈 Contribution guidelines
+# 👩‍💻 Useful resources
+# 🍿 Fun facts
+
 <!--
 
 **Here are some ideas to get you started:**
